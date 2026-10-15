@@ -19,5 +19,7 @@ mengatur menu home,artikel,about,dan kontak
 ## 7. Hero panel
 mengatur bagian hero yang berada di bawah navigasi website
 ![hero panel](ss/gambar7.png)
-
+## 8. Main Content sidebar
+mengatur posisi konten utama dan sidebar agar tersusun rapi
+![main content sidebar](ss/gambar8.png)
 
