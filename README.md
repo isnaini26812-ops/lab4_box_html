@@ -34,4 +34,10 @@ membuat halaman about yang berisi deskripsi diri dan portofolio
 ## 12. halaman contact
 membuat halaman contact yang berisi formulir nama,email,dan pesan
 ![halaman contact](ss/gambar12.png)
+## 13. hasil untuk halaman pertama
+![hasil](ss/gambar13.png)
+## 14. hasil untuk data diri
+![hasil](ss/gambar14.png)
+## 14. hasil untuk kontak
+![hasil](ss/gambar15.png)
 
