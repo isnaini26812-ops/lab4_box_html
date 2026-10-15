@@ -22,4 +22,7 @@ mengatur bagian hero yang berada di bawah navigasi website
 ## 8. Main Content sidebar
 mengatur posisi konten utama dan sidebar agar tersusun rapi
 ![main content sidebar](ss/gambar8.png)
+## 9.footer
+membuat bagian footer yang terletak di bawah halaman website
+![footer](ss/gambar9.png)
 
