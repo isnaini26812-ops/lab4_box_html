@@ -39,5 +39,5 @@ membuat halaman contact yang berisi formulir nama,email,dan pesan
 ## 14. hasil untuk data diri
 ![hasil](ss/gambar14.png)
 ## 15. hasil untuk kontak
-![hasil untuk kontak](ss/Screenshot 2026-10-15 161542)
+![hasil untuk kontak](ss/Screenshot 2026-10-15 161542png)
 
