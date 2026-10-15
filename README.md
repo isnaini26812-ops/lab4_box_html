@@ -5,4 +5,8 @@ Mempelajari struktur box element pada HTML yang terdiri dari margin, border, pad
 ## 2. Float property
 Menggunakan properti float untuk membuat elemen berjajar secara horizontal.
 ![Float property](ss/gambar2.png)
+## 3. Clearfix Elemnt
+Menggunakan properti clear untuk mengatur posisi elemen setelah elemen float.
+![Clearfix elemnt](ss/gambar3.png)
+
 
