@@ -25,4 +25,13 @@ mengatur posisi konten utama dan sidebar agar tersusun rapi
 ## 9.footer
 membuat bagian footer yang terletak di bawah halaman website
 ![footer](ss/gambar9.png)
+## 10. content artikel
+menambahkan artikel yang berisi judul,gambar,dan paragraf
+![content artikel](ss/gambar10.png)
+## 11. halaman about
+membuat halaman about yang berisi deskripsi diri dan portofolio
+![halaman about](ss/gambar11.png)
+## 12. halaman contact
+membuat halaman contact yang berisi formulir nama,email,dan pesan
+![halaman contact](ss/gambar12.png)
 
