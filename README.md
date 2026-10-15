@@ -38,6 +38,6 @@ membuat halaman contact yang berisi formulir nama,email,dan pesan
 ![hasil](ss/gambar13.png)
 ## 14. hasil untuk data diri
 ![hasil](ss/gambar14.png)
-## 14. hasil untuk kontak
-![hasil](ss/gambar15.png)
+## 15. hasil untuk kontak
+![hasil](ss/gambar15.png0
 
