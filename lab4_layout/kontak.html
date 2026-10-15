@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Hubungi Saya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+
+        <header>
+            <h1>Contact</h1>
+        </header>
+
+        <nav>
+            <a href="home.html">Home</a>
+            <a href="artikel.html">Artikel</a>
+            <a href="about.html">About</a>
+            <a href="kontak.html" class="active">Kontak</a>
+        </nav>
+
+        <section id="hero">
+            <h1>Hubungi Saya</h1>
+            <p>
+                Silakan isi formulir di bawah ini
+                jika ingin menghubungi saya.
+            </p>
+        </section>
+
+        <section id="wrapper">
+            <section id="main">
+
+                <h2>Formulir Kontak</h2>
+                <br>
+
+                <form action="#" method="post">
+
+                    <p>
+                        <label for="nama">Nama Lengkap</label>
+                        <br><br>
+                        <input type="text" id="nama"
+                               name="nama"
+                               placeholder="Masukkan nama lengkap"
+                               required>
+                    </p>
+
+                    <br>
+
+                    <p>
+                        <label for="email">Email</label>
+                        <br><br>
+                        <input type="email" id="email"
+                               name="email"
+                               placeholder="Masukkan alamat email"
+                               required>
+                    </p>
+
+                    <br>
+
+                    <p>
+                        <label for="subjek">Subjek</label>
+                        <br><br>
+                        <input type="text" id="subjek"
+                               name="subjek"
+                               placeholder="Masukkan subjek pesan"
+                               required>
+                    </p>
+
+                    <br>
+
+                    <p>
+                        <label for="pesan">Pesan</label>
+                        <br><br>
+                        <textarea id="pesan" name="pesan"
+                                  rows="6"
+                                  placeholder="Tuliskan pesan kamu"
+                                  required></textarea>
+                    </p>
+
+                    <br>
+
+                    <button type="submit">Kirim Pesan</button>
+                    <button type="reset">Reset</button>
+
+                </form>
+
+            </section>
+
+            <aside id="sidebar">
+                <div class="widget-box">
+                    <h3 class="title">Informasi Kontak</h3>
+                    <p>
+                        Gunakan formulir ini untuk menuliskan
+                        pertanyaan, saran, atau pesan.
+                    </p>
+                </div>
+
+                <div class="widget-box">
+                    <h3 class="title">Menu</h3>
+                    <ul>
+                        <li><a href="home.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="kontak.html">Kontak</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </section>
+
+        <footer>
+            <p>&copy; 2026 - Website Isnaini</p>
+        </footer>
+
+    </div>
+</body>
+</html>
