@@ -12,6 +12,6 @@ Menggunakan properti clear untuk mengatur posisi elemen setelah elemen float.
 ![layout website sederhana](ss/gambar4.png)
 ## 5. Header 
 mengatur ukuran dan tampilan header 
-![header[(ss/gambar5.png)
+![header](ss/gambar5.png)
 
 
