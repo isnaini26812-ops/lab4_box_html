@@ -9,7 +9,9 @@ Menggunakan properti float untuk membuat elemen berjajar secara horizontal.
 Menggunakan properti clear untuk mengatur posisi elemen setelah elemen float.
 ![Clearfix elemnt](ss/gambar3.png)
 ## 4. layout website sederhana
-Membuat kerangka website menggunakan header,navigasi,hero,konten utama,sidebar,dan footer.
 ![layout website sederhana](ss/gambar4.png)
+## 5. Header 
+mengatur ukuran dan tampilan header 
+![header[(ss/gambar5.png)
 
 
