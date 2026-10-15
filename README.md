@@ -14,7 +14,10 @@ Menggunakan properti clear untuk mengatur posisi elemen setelah elemen float.
 mengatur ukuran dan tampilan header 
 ![header](ss/gambar5.png)
 ## 6.Navigasi
-mengatur menu home,artikel,about,dan kontak menggunakan CsS
+mengatur menu home,artikel,about,dan kontak 
 ![navigasi](ss/gambar6.png)
+## 7. Hero panel
+mengatur bagian hero yang berada di bawah navigasi website
+![hero panel](ss/gambar7.png)
 
 
